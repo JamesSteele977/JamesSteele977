@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesSteele977
-- 👀 I’m interested in ... computational models in neuroscience
-- 🌱 I’m currently learning ... signal processing and deep learning
-- 💞️ I’m looking to collaborate on ... automation techniques for electrophysiology data collection
+- 👀 I’m interested in ... neural sensing, decoding, acutation, and augmentation
+- 🌱 I’m currently learning ... experimental automation and compartmental conductance modeling
+- 💞️ I’m looking to collaborate on ... nano transmembrane voltage sensor design and analog emulation of neural circuits
 - 📫 How to reach me ... u1394466@umail.utah.edu
 
 <!---
