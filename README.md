@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesSteele977
-- 👀 I’m interested in ... neural sensing, decoding, acutation, and augmentation
-- 🌱 I’m currently learning ... experimental automation and compartmental conductance modeling
-- 💞️ I’m looking to collaborate on ... nano transmembrane voltage sensor design and analog emulation of neural circuits
+- 👀 I’m interested in ... models of consciousness and intelligence
+- 🌱 I’m currently learning ... fuck-ton of math
+- 💞️ I’m looking to collaborate on ... spiking neural network design
 - 📫 How to reach me ... u1394466@umail.utah.edu
 
 <!---
