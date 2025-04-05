@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesSteele977
-- 👀 I’m interested in ... models of consciousness and intelligence
+- 👀 I’m interested in ... theories of consciousness and neuromorphic computing
 - 🌱 I’m currently learning ... fuck-ton of math
-- 💞️ I’m looking to collaborate on ... spiking neural network design
+- 💞️ I’m looking to collaborate on ... the things I'm interested in :)
 - 📫 How to reach me ... u1394466@umail.utah.edu
 
 <!---
