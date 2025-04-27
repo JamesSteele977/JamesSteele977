@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesSteele977
 - 👀 I’m interested in ... theories of consciousness and neuromorphic computing
-- 🌱 I’m currently learning ... fuck-ton of math
+- 🌱 I’m currently learning ... fundamentals of mathematics, physics, and neuroscience 
 - 💞️ I’m looking to collaborate on ... the things I'm interested in :)
 - 📫 How to reach me ... u1394466@umail.utah.edu
 
